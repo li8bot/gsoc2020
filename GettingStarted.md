@@ -1,6 +1,6 @@
 ## How to get started
 
-Being in its early days, MonkAI requires the support of Computer Vision and Deep Learning enthusiasts to support the design and development. In its current form, MonkAI supports :
+Being in its early days, MonkAI requires the support of Computer Vision and Deep Learning enthusiasts to guide and participate in the design and development of the library. Currently the following features are available in MonkAI: 
 
 1. [Image Classification using Transfer Learning](https://github.com/Tessellate-Imaging/monk_v1)
 2. [Object Detection workflows with a variety of Deep Neural architectures](https://github.com/Tessellate-Imaging/Monk_Object_Detection)
@@ -11,12 +11,9 @@ Any open source experience will help you prepare for GSoC, so don't worry too mu
 
 A few steps before you should apply :
 
-- Setup your own development environment and test out the tools
-- Start communicating with the developers
+- Setup your own development environment and test out the library and tools
+- Start communicating with the developers and mentors
 - Try to fix any open bugs
 - Hunt and report bugs
 - Provide help with documentation
 - Help others!
-
-
-

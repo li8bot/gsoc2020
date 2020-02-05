@@ -9,3 +9,14 @@ Being in its early days, MonkAI requires the support of Computer Vision and Deep
 
 Any open source experience will help you prepare for GSoC, so don't worry too much about what project you try first and don't be afraid to change your mind!
 
+A few steps before you should apply :
+
+- Setup your own development environment and test out the tools
+- Start communicating with the developers
+- Try to fix any open bugs
+- Hunt and report bugs
+- Provide help with documentation
+- Help others!
+
+
+

@@ -19,8 +19,8 @@ All applications must go through Google's application system; we can't accept an
 ## How should your application look!
 
 An ideal application will contain 5 things:
-- A descriptive title including the name of the project you want to work with.
-- Information about you, including contact information.
+- A descriptive title including the name of the project you want to work on
+- Information about you, including contact information
 - Link to a code contribution you have made to the organization
-- Information about your proposed project. This should be fairly detailed and include a timeline.
+- Information about your proposed plan for the project. This should be fairly detailed and must include a timeline
 - Information about other commitments that might affect your ability to work during the GSoC period. (exams, classes, holidays, other jobs, weddings, etc.)

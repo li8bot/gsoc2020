@@ -2,24 +2,27 @@
 
 1. Integrating Tensorflow 2.0 support for Transfer Learning based Image Classification
 
-Source Code :
+**Source Code :**
 [Monk Image Classification](https://github.com/Tessellate-Imaging/monk_v1)
 
-Objectives : 
+**Project Description :**
 
 
-Mentors : Abhishek Kumar Annamraju
+**Objectives :** 
 
 
-Difficulty Level : High
+**Mentors :** Abhishek Kumar Annamraju
+
+
+**Difficulty Level :** High
 
 
 2. Creating Object Detection workflows across different imaging modalities
 
-Source Code :
+**Source Code :**
 [Monk Object Detection](https://github.com/Tessellate-Imaging/Monk_Object_Detection)
 
-Project Description :
+**Project Description :**
 Explore state of the art Object Detection research implementations for :
 1) Thermal Imagery
 2) Multispectral Satellite Imagery
@@ -29,7 +32,7 @@ Explore state of the art Object Detection research implementations for :
 
 and create a high level wrapper using Monk's syntax.
 
-Objectives :
+**Objectives :**
 
 - Pull Monk Object Detection repository and test in a local setup
 - Go through Documentation and understand the syntax, implementation modules and pipelines.
@@ -39,46 +42,53 @@ Objectives :
 
 
 
-Mentors : Akash Deep Singh
+**Mentors :** Akash Deep Singh
 
 
-Difficulty Level : Medium
+**Difficulty Level :** Medium
 
 3. Creating Monk-Studio web application
 
-Source Code :
+**Source Code :**
 [Monk Object Detection](https://github.com/Tessellate-Imaging/Monk_Object_Detection)
 
-Objectives :
+**Objectives :**
 
 
-Mentors : Akash Deep Singh
+**Mentors :** Akash Deep Singh
 
 
 Difficulty Level : Medium
 
 4. Creating a Custom Network Builder web application
 
-Source Code :
+**Source Code :**
 [Monk Image Classification](https://github.com/Tessellate-Imaging/monk_v1)
 
-Objectives : 
+**Project Description :**
 
 
-Mentors : Abhishek Kumar Annamraju
+**Objectives :** 
 
 
-Difficulty Level : High
+**Mentors :** Abhishek Kumar Annamraju
+
+
+**Difficulty Level :** High
 
 5. One-Click Model deploy to Cloud
 
-Source Code :
+**Source Code :**
 [Monk Image Classification](https://github.com/Tessellate-Imaging/monk_v1)
 
-Objectives : 
+**Project Description :**
 
 
-Mentors : Abhishek Kumar Annamraju
+**Objectives :** 
 
 
-Difficulty Level : High
+**Mentors :** Abhishek Kumar Annamraju
+
+
+**Difficulty Level :** High
+

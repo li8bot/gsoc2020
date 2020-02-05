@@ -1,9 +1,11 @@
-## What is MonkAI
+## How to get started
 
-MonkAI is a syntax invariant wrapper for popular Deep Learning frameworks Pytorch, Keras, Mxnet.The goals are to reduce cognitive loads for novice programmers alongwith a host of features to cater to a domain expert.
+Being in its early days, MonkAI requires the support of Computer Vision and Deep Learning enthusiasts to support the design and development. In its current form, MonkAI supports :
 
-## Google Summer of Code
+1. (Image Classification using Transfer Learning)[https://github.com/Tessellate-Imaging/monk_v1]
+2. (Object Detection workflows with a variety of Deep Neural architectures)[https://github.com/Tessellate-Imaging/Monk_Object_Detection]
+3. (Custom Neural Network designer)[https://github.com/Tessellate-Imaging/monk_v1/blob/master/tutorials/8%20-%20Custom%20Model%20Creation%20and%20debugging%20With%20Monk.ipynb]
+4. (MonkAI Studio - for a GUI based classification and detection workflows)[https://github.com/Tessellate-Imaging/Monk_Gui]
 
-Google Summer of Code (GSoC) is a global program that offers post-secondary students an opportunity to be paid for contributing to an open source project over a three month period.
+Any open source experience will help you prepare for GSoC, so don't worry too much about what project you try first and don't be afraid to change your mind!
 
-<b>We're hoping to participate in GSoC 2020! (Google announces their selections on Feb 20, 2020.)</b>
